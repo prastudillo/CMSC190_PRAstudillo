@@ -1,0 +1,3 @@
+[submodule "code/classpic-django"]
+	path = code/classpic-django
+	url = https://github.com/prastudillo/classpic-django
