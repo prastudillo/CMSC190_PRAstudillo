@@ -1,2 +1,2 @@
-# CMSC190_PRAstudillo
-2nd Semester 2019-2020
+# Abstract
+Attendance checking is an essential part of classroom management but it can be time-consuming and tedious. Thus, many technologies are developed in order to automate this task. These technologies are often expensive because they require machinery to operate.  This paper presents a more economical and efficient method of automating attendance checking by utilizing facial recognition. Using the developed web application, the teacher can take images of the class containing the face of each student then the application will automatically record the in a .csv file the attendance based on the faces recognized. 
